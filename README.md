@@ -21,7 +21,7 @@ Drum Kit
 🚀 How to Run
 
 1. Clone the repository
-    git clone https://github.com/your-username/disco-kit.git
+    git clone https://github.com/Tahirrr-04/Disco_Kit.git
 2. Navigate to the project folder
     cd disco-kit
 3. Open index.html in your browser.
