@@ -15,7 +15,8 @@ Press the keys on your keyboard or click the drums to play unique sounds and cre
 
 📸 Screenshots
 Drum Kit 
-<img src="images/screenshort/screenshort.png" alt="Drum Kit Screenshot" width="700"/>
+
+<img src="images/screenshort/screenshort.png" />
 
 🚀 How to Run
 
